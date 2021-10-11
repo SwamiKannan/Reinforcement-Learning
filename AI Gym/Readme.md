@@ -1,5 +1,5 @@
 # OpenAI gym
-
+![RL agents](RL_samples.gif)
 Gym is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.
 
 It makes no assumptions about the structure of your agent, and is compatible with any numerical computation library, such as TensorFlow or Theano.
