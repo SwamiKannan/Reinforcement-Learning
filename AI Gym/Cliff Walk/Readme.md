@@ -1,5 +1,5 @@
 # CliffWalk
-
+![Cliff Walking representation](cliff_walking.png "Cliff Walking")
 ## Environment:
 This is a simple implementation of the Gridworld Cliff  reinforcement learning task.<br>  Adapted from Example 6.6 (page 106) from Reinforcement Learning: An Introduction by Sutton and Barto: http://incompleteideas.net/book/bookdraft2018jan1.pdf
 <br>With inspiration from: https://github.com/dennybritz/reinforcement-learning/blob/master/lib/envs/cliff_walking.py<br>
