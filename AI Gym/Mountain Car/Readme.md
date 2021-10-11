@@ -1,4 +1,4 @@
-# Mountain Car v0
+# Mountain-Car v0
 [![Watch the video](https://j.gifs.com/LZPV6v.gif)](https://gym.openai.com/videos/2019-10-21--mqt8Qj1mwo/MountainCar-v0/original.mp4)
 
 ## Environment:
