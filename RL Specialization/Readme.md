@@ -63,3 +63,6 @@ Understand how to formalize your task as a RL problem, and how to begin implemen
 ##### Implement your agent
 
 #### Completing the Parameter Study
+
+## Taxonomy of the Specialization
+![RL map](RL_map.jpg)
