@@ -14,4 +14,6 @@ Algorithmic: perform computations such as adding multi-digit numbers and reversi
 Atari: play classic Atari games. We’ve integrated the Arcade Learning Environment (which has had a big impact on reinforcement learning research) in an easy-to-install form.
 2D and 3D robots: control a robot in simulation. These tasks use the MuJoCo physics engine, which was designed for fast and accurate robot simulation. Included are some environments from a recent benchmark by UC Berkeley researchers (who incidentally will be joining us this summer). MuJoCo is proprietary software, but offers free trial licenses.
 
-**Note:** Most of the agents built by me using Gym.AI environments have used templates from Udacity's Deep Reinforcement Learning Nanodegree Github
+**Note:** Most of the agents built by me on Gym.AI environments have been built on templates from Udacity's Deep Reinforcement Learning Nanodegree Github (https://github.com/udacity/deep-reinforcement-learning)
+
+Image credit: Udacity deep reinforcement learning
