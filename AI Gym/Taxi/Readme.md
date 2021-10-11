@@ -1,4 +1,5 @@
 # Taxi-V3
+![Taxt-V3](illustrative.gif "Taxi animated gif")
 ## Environment:
 The Taxi Problem from "Hierarchical Reinforcement Learning with the MAXQ Value Function Decomposition" by Tom Dietterich <br>
 This task was introduced in [Dietterich2000] to illustrate some issues in hierarchical reinforcement learning. <br>
