@@ -3,7 +3,11 @@
     This environment corresponds to the version of the cart-pole problem described by Barto, Sutton, and Anderson in ["Neuronlike Adaptive Elements That Can Solve Difficult Learning Control Problem"]( https://ieeexplore.ieee.org/document/6313077 ).
     A pole is attached by an un-actuated joint to a cart, which moves along a frictionless track. The pendulum starts upright, and the goal is to prevent it from falling over by increasing and reducing the cart's velocity. <br>
 
-![Random](random.gif)  ![Learnt model](learned.gif)
+Unlearned model (Fails as soon as it moves to the right)
+![Random](random.gif)  
+
+Learned model (Balances the pole for 199 timesteps, after which the environment ends)
+![Learnt model](learned.gif)
 
 
 ## Source code for environment:
