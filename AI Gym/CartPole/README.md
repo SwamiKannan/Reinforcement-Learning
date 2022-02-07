@@ -3,8 +3,8 @@
     This environment corresponds to the version of the cart-pole problem described by Barto, Sutton, and Anderson in ["Neuronlike Adaptive Elements That Can Solve Difficult Learning Control Problem"]( https://ieeexplore.ieee.org/document/6313077 ).
     A pole is attached by an un-actuated joint to a cart, which moves along a frictionless track. The pendulum starts upright, and the goal is to prevent it from falling over by increasing and reducing the cart's velocity. <br>
 
-![Random](random.gif) 
-![Learnt model](learned.gif)
+![Random](random.gif)  ![Learnt model](learned.gif)
+
 
 ## Source code for environment:
 https://github.com/openai/gym/blob/master/gym/envs/classic_control/cartpole.py
